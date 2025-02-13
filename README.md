@@ -68,7 +68,6 @@ Make sure to handle the responce if the requested books was not there in every o
     "copies": 7
 }
 
-
 ### **Delete a Book (D)**
 
 - **Endpoint**: `DELETE /books/:id`
@@ -77,16 +76,20 @@ Make sure to handle the responce if the requested books was not there in every o
 - **Output**: Return a success message or an error if the book doesn't exist.
 
 
+
 # **How to Fork and Set Up Your Repository**
 
 ---
+
 
 ## **1. Fork the Repository on StackBlitz**
 - You will be provided with a **StackBlitz** link for the assignment.
 - Open the link in your browser and click on the **Fork** button in StackBlitz.
   This will create a copy of the repository in your StackBlitz account.
 
+
 ---
+
 
 ## **2. Clone the Repository to Your Personal GitHub**
 - After forking, you can download the project or push it directly to your personal GitHub repository:
